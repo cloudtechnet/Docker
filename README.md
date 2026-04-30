@@ -74,7 +74,7 @@
 
 ---
 
-## **🔰 MODULE 4: Docker Storage & Networking** 20-11-2025
+## **🔰 MODULE 4: Docker Networking** 20-11-2025
 
 ### **4.1 Docker Networking**
 
