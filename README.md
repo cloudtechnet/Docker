@@ -65,11 +65,11 @@
 ### **3.1 Docker Storage**
 
 * Volume types:
-
+* Persistent storage
   * Named Volume
   * Bind Mount
+* Temporary storage
   * tmpfs mount
-* Persistent storage
 * Sharing data between containers
 
 ---
