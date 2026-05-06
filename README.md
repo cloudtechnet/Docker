@@ -80,7 +80,6 @@
 
 * Default networks: Bridge, Host, None
 * Container-to-container communication
-* Custom network creation
 * Port mapping & exposing services
 * DNS inside Docker
 
